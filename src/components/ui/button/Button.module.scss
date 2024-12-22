@@ -1,0 +1,17 @@
+.button {
+  @apply
+  py-[16px]
+  px-4
+  flex
+  justify-center
+  items-center
+  rounded-[4px]
+  transition
+  duration-150
+  ease-in-out
+  hover:opacity-80
+  active:scale-[0.99]
+  text-white
+  font-[500]
+  leading-[24px]
+}
